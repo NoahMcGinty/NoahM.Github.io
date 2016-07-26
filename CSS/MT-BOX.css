@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+#MT_headerIMG{
+	width:100%;
+	height:auto;
+	background-image:url(../IMG/Background/HEADER_BG.png);
+	text-align:center;
+}
+#MT_PG_NAME{
+	width:100%;
+	height:auto;
+	margin:2px 0px 2px 0px;
+	border:1px solid purple;;
+	text-align:center;
+	background-image:url(../IMG/Background/PG-NAME_BG.png)
+}
+
+#MT_Wrapper{
+	width:100%;
+	height:2000px;
+	margin:5px 0px 0px 0px;
+	background-image:url(../IMG/Background/WRAPPER_BG.png)
+}
+
+#MT_FOOTER{
+	width:100%;
+	height:auto;
+	margin:5px 0px 5px 0px;
+	background-image:url(../IMG/Background/FOOTER_BG.png);
+	text-align:center;
+}
+/* School_Main */
+#SM_BOX{
+	width:70%;
+	height:auto;
+	border:1px solid red;
+	text-align:center;
+	background-color:#399;
+	padding:5px 0px 0px 0px;
+}
+/* School_2016 */
+#S_2016_CL{
+	width:70%;
+	height:auto;
+	text-align:center;		
+}
+#S_2016_C{
+	width:70%;
+	height:auto;
+	text-align:center;	
+}
+#S_2016_L{
+	width:70%;
+	height:auto;
+	text-align:center;	
+}
